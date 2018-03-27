@@ -6,7 +6,7 @@ USERNAME = "username"
 PASSWORD = "password"
 
 LOGIN_URL = "https://github.com/login"
-URL = "https://github.com/harshitsaamu?tab=following"
+URL = "https://github.com/"+USERNAME+"?tab=following"
 
 languages=[]
 output=[]
